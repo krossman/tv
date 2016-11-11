@@ -1,0 +1,162 @@
+#EXTM3U
+#
+#EXTINF:-1,TVP 1
+rtmp://50.7.115.2/stream/2312L
+#EXTINF:-1,TVP 1 [1]
+https://cdn.adultcontent.stream/stream/1d8ef557c34600ca70a8b33645348275.m3u8
+#EXTINF:-1,TVP 2
+rtmp://50.7.115.2/stream/2111L
+#EXTINF:-1,TVP 2 [1]
+https://cdn.adultcontent.stream/stream/d0347b6722e8f250ec69f89cfc19d38e.m3u8
+#EXTINF:-1,Polsat
+rtmp://50.7.115.2/stream/2112L
+#EXTINF:-1,Polsat [1]
+https://cdn.adultcontent.stream/stream/dae41c0f55040a836f1627a6ca5005ff.m3u8
+#EXTINF:-1,TV 4
+rtmp://50.7.115.2/stream/1122
+#EXTINF:-1,TVN
+rtmp://50.7.115.2/stream/2212L
+#EXTINF:-1,TVN [1]
+https://cdn.adultcontent.stream/stream/5bbab4fa89773082e4a9163f6274df52.m3u8
+#EXTINF:-1,TV Puls
+rtmp://50.7.115.2/stream/1120
+#EXTINF:-1,Puls 2
+rtmp://50.7.115.2/stream/1121
+#EXTINF:-1,TV Puls [1]
+https://cdn.adultcontent.stream/stream/cb38c11dea68e9a1c3c993a334882fad.m3u8
+#EXTINF:-1,TVN 7
+rtmp://50.7.115.2/stream/2213L
+#EXTINF:-1,TVN 7 [1]
+https://cdn.adultcontent.stream/stream/e03e88ee7c3b41c60b99d4297d221ce4.m3u8
+#EXTINF:-1,TV 6
+rtmp://50.7.115.2/stream/1123
+#EXTINF:-1,Stopklatka TV
+rtmp://50.7.115.2/stream/1111
+#EXTINF:-1,Kino Polska
+rtmp://50.7.115.2/stream/1204
+#EXTINF:-1,TTV
+rtmp://50.7.115.2/stream/1118
+#EXTINF:-1,ATM 
+rtmp://50.7.115.2/stream/1112
+#EXTINF:-1,TVP HD
+rtmp://50.7.115.2/stream/1105
+#EXTINF:-1,TVP Seriale
+rtmp://50.7.115.2/stream/1209
+#EXTINF:-1,Polsat Film HD
+rtmp://50.7.115.2/stream/3312
+#EXTINF:-1,Polsat Play
+rtmp://50.7.115.2/stream/1127
+#EXTINF:-1,AXN
+rtmp://50.7.115.2/stream/1220
+#EXTINF:-1,FOX
+rtmp://50.7.115.2/stream/2113
+#EXTINF:-1,Filmbox HD
+rtmp://50.7.115.2/stream/1218
+#EXTINF:-1,Cinemax 2 HD
+rtmp://50.7.115.2/stream/2211
+#EXTINF:-1,HBO
+rtmp://50.7.115.2/stream/1106
+#EXTINF:-1,HBO 2
+rtmp://50.7.115.2/stream/2013
+#EXTINF:-1,HBO 3
+rtmp://50.7.115.2/stream/2012
+#EXTINF:-1,Canal+ HD
+rtmp://50.7.115.2/stream/3113
+#EXTINF:-1,CANAL+ Family HD
+rtmp://50.7.115.2/stream/3513
+#EXTINF:-1,CANAL+ Film HD
+rtmp://50.7.115.2/stream/3511
+#EXTINF:-1,CANAL+ Seriale HD
+rtmp://50.7.115.2/stream/3512
+#EXTINF:-1,Polsat Film HD
+rtmp://50.7.115.2/stream/3312
+#EXTINF:-1,Comedy Central
+rtmp://50.7.115.2/stream/1212
+#EXTINF:-1,Comedy Central Family
+rtmp://50.7.115.2/stream/3214
+#EXTINF:-1,Eleven Sports1 HD
+rtmp://50.7.115.2/stream/3013
+#EXTINF:-1,Eleven Sports2 HD
+rtmp://50.7.115.2/stream/3613
+#EXTINF:-1,EuroSport 1 HD
+rtmp://50.7.115.2/stream/3313
+#EXTINF:-1,EuroSport 2 HD
+rtmp://50.7.115.2/stream/1128
+#EXTINF:-1,CANAL+ Sport HD
+rtmp://50.7.115.2/stream/3111L
+#EXTINF:-1,CANAL+ Sport 2 HD
+rtmp://50.7.115.2/stream/3611
+#EXTINF:-1,Polsat Sport
+rtmp://50.7.115.2/stream/1101
+#EXTINF:-1,Polsat Sport Extra
+rtmp://50.7.115.2/stream/1126
+#EXTINF:-1,Polsat Sport News
+rtmp://50.7.115.2/stream/1125
+#EXTINF:-1,LECH TV
+http://wtk.live-ext.e96-jw.insyscd.net:80/lechtv.smil/chunklist_b684100_slpl.m3u8
+#EXTINF:-1,Polsat News HD
+rtmp://50.7.115.2/stream/3012L
+#EXTINF:-1,TVP INFO
+rtmp://50.7.115.2/stream/1119
+#EXTINF:-1,TVN 24
+rtmp://50.7.115.2/stream/2411L
+#EXTINF:-1,TVN Biznes i Swiat
+rtmp://50.7.115.2/stream/2513
+#EXTINF:-1,Super Stacja
+rtmp://50.7.115.2/stream/2614
+#EXTINF:-1,Republika
+http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
+#EXTINF:-1,WTK
+http://wtk.live-ext.e55-po.insyscd.net/wtk.smil/playlist.m3u8
+#EXTINF:-1,Discovery HD
+rtmp://50.7.115.2/stream/1108
+#EXTINF:-1,Discovery Science HD
+rtmp://198.16.64.18/stream/3413
+#EXTINF:-1,Investigation Discovery HD
+rtmp://50.7.115.2/stream/2512
+#EXTINF:-1,Discovery Turbo Xtra
+rtmp://50.7.115.2/stream/1109b
+#EXTINF:-1,Discovery Live
+rtmp://50.7.115.2/stream/1129
+#EXTINF:-1,National Geographic HD
+rtmp://50.7.115.2/stream/3614
+#EXTINF:-1,National Geographic People HD
+rtmp://50.7.115.2/stream/2412
+#EXTINF:-1,National Geographic Wild
+rtmp://50.7.115.2/stream/3412
+#EXTINF:-1,BBC Earth
+rtmp://50.7.176.132/stream/2011
+#EXTINF:-1,BBC Earth HD
+rtmp://50.7.115.2/stream/2111
+#EXTINF:-1,Animal Planet HD
+rtmp://50.7.115.2/stream/3612
+#EXTINF:-1,Travel HD
+rtmp://50.7.115.2/stream/2511
+#EXTINF:-1,Fokus TV
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:-1,Disney Channel
+rtmp://50.7.115.2/stream/2713
+#EXTINF:-1,Disney Junior
+rtmp://50.7.115.2/stream/2413
+#EXTINF:-1,Disney XD
+rtmp://50.7.115.2/stream/2714
+#EXTINF:-1,Jim Jam
+rtmp://50.7.115.2/stream/2711
+#EXTINF:-1,TVN Style
+rtmp://50.7.115.2/stream/1222
+#EXTINF:-1,Polsat Cafe
+rtmp://50.7.115.2/stream/1124
+#EXTINF:-1,Tlc
+rtmp://50.7.176.132/stream/3311
+#EXTINF:-1,Eska TV
+rtmp://stream.smcloud.net/tv/eskatv/eskatv_360p
+#EXTINF:-1,Eska Best
+rtmp://stream.smcloud.net/tv/best/best_720p
+#EXTINF:-1,Eska Party
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_720p
+#EXTINF:-1,4funTV
+rtmp://edge5.popler.tv/popler_publishlive/4funtv
+#EXTINF:-1,4funTV Dance
+rtmp://edge5.popler.tv/popler_publishlive/tvdisco
+#EXTINF:-1,Polo TV
+rtmp://stream.smcloud.net/live/polotv
